@@ -1,0 +1,13 @@
+.am-navbar-light {
+    background-color: rgb(18,95,170);
+    color: white;
+}
+
+.am-navbar-light .am-navbar-title {
+    color: white;
+}
+
+.am-wingblank.am-wingblank-lg {
+    margin: 0 auto !important;
+}
+

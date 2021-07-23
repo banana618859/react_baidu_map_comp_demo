@@ -1,0 +1,167 @@
+.sum {
+    width: 100%;
+    height: 100%;
+    background-color: #125faa;
+    text-align: center;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+.am-navbar {
+    background-color: #125faa !important;
+    color: white !important;
+}
+.am-navbar-light .am-navbar-title {
+    color: white !important;
+}
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.am-list-item .am-input-label.am-input-label-5 {
+    display: flex;
+}
+
+.am-list-item img {
+    margin-bottom: 3vw;
+    width: 3vw !important;
+    height: 3vw !important;
+}
+
+.am-list-item .am-input-control {
+    margin-bottom: 1vw;
+}
+
+.address {
+    background: url(../images/address.png) center right no-repeat;
+    background-size: 3vw;
+}
+
+.am-list-header {
+    display: none;
+    border: none;
+}
+
+
+.title2 {
+    text-align: center;
+    color: #dcf6ff;
+    font-size: 5vw;
+}
+
+.subtitle2 {
+    margin-top: 3vw;
+    text-align: center;
+    font-size: 8vw;
+    color: #dcf6ff;
+}
+
+.imgs {
+    width: 100%;
+    height: 10vw;
+    background-color: #125faa;
+}
+
+.pecil {
+    margin: 3vw 20vw;
+    width: 60vw;
+    height: 10vw;
+    text-align: center;
+}
+
+.am-list-body {
+    border-radius: 5vw !important;
+}
+
+.am-card {
+    width: 95%;
+    margin-left: 2vw;
+    margin-bottom: 3vw;
+}
+
+.am-accordion-header {
+    text-align: left;
+}
+
+.am-list .am-list-item.am-textarea-item.am-textarea-item-single-line {
+    border: none;
+}
+
+.check {
+    text-align: left;
+    color: white;
+    font-size: 3vw;
+    margin-left: 3vw;
+    height: 14vw;
+    display: flex;
+    line-height: 7vw;
+}
+
+.check .title3 {
+    width: 90%;
+}
+
+.checkbox {
+    background-color: #125faa;
+    margin-top: 2vw;
+    margin-right: 2vw;
+}
+
+.btn {
+    background-color: white;
+    color: black;
+    border: none !important;
+    height: 9vw;
+    line-height: 9vw;
+    display: flex;
+    justify-content: space-between;
+}
+
+.up {
+    width: 10vw;
+    height: 10vw;
+}
+
+.btn2 {
+    background-color: #125faa !important;
+    color: #fff !important;
+}
+
+.am-list-item .am-input-label {
+    font-size: 4vw !important;
+}
+
+.am-list-item .am-input-control input  {
+    font-size: 4vw !important;
+    margin-left: 3vw;
+}
+
+.am-textarea-control textarea {
+    font-size: 4vw !important;
+}
+
+.am-list-item .am-input-label.am-input-label-5 {
+    padding-top: 2vw;
+}
+
+.am-list-item .am-list-line .am-list-content {
+    font-size: 4vw !important;
+}
+
+.am-list-item .am-list-line .am-list-extra {
+    font-size: 4vw !important;
+}
+
+.am-whitespace.am-whitespace-lg {
+    height: 0 !important;
+}
+
+.am-card-body {
+    padding: 0 3vw 3vw 3vw !important;
+}
+
+.am-button {
+    font-size: 4vw !important;
+}
