@@ -66,10 +66,12 @@ class BaiduMap extends React.Component {
                 console.log('address', rs, address);
                 // alert(address);
                 // 获取到地址后，跳转回去
-                that.props.history.push({
-                  pathname: '/Report',
-                  data: address
-                })
+                setTimeout(()=>{
+                  that.props.history.push({
+                    pathname: '/Report',
+                    data: address
+                  })
+                },2000)
             });
         }
         // 原文链接：https://blog.csdn.net/zhh830619/article/details/84958136
