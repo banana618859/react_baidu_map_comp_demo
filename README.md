@@ -1,3 +1,7 @@
+# look
+![首页](https://github.com/banana618859/react_baidu_map_comp_demo/blob/master/src/pages/images/demo.jpg)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
